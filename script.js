@@ -17,8 +17,11 @@ class Ship {
     }
 }
 
-function functionName(){
-    //
+class Gameboard {
+    constructor(){}
+
+    receiveAttack(alpha, numeric){}
 }
+
 
 // module.exports = functionName 
